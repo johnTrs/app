@@ -1,0 +1,27 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^1.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "git": "^0.1.5",
+    "mongodb": "^3.3.5",
+    "mysql": "^2.17.1",
+    "node": "^12.13.0",
+    "npx": "^10.2.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "start": "^5.1.0",
+    "supervisor": "^0.12.0",
+    "zomato": "^1.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
